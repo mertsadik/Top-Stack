@@ -1,0 +1,60 @@
+Tap Stack - kullanilan hazir assetler ve lisanslari
+==================================================
+
+GRAFIKLER (Kenney)
+------------------
+Kaynak : Kenney (https://kenney.nl)
+Lisans : Creative Commons CC0 1.0 (kamu malı, ticari kullanım serbest, atıf zorunlu değil)
+
+  Textures/pattern.png   <- Pattern Pack / PNG/Default/pattern_02.png
+                            (https://kenney.nl/assets/pattern-pack)
+                            Arka plandaki ince çapraz çizgiler için.
+
+  UI/panel.png           <- UI Pack / PNG/Grey/Default/button_square_depth_flat.png
+                            (https://kenney.nl/assets/ui-pack)
+                            9 dilime bölünmüş yuvarlak köşeli panel; seviye hapı,
+                            ilerleme çubuğu ve bitiş kartı bundan üretiliyor.
+  UI/star.png            <- UI Pack / PNG/Yellow/Default/star.png
+  UI/star_bos.png        <- UI Pack / PNG/Grey/Default/star.png
+
+  Particles/star.png     <- Particle Pack / PNG (Transparent)/star_01.png
+                            (https://kenney.nl/assets/particle-pack)
+                            Mükemmel yerleştirmedeki yıldız patlaması.
+  Particles/circle.png   <- Particle Pack / PNG (Transparent)/circle_05.png
+                            Seviye sonundaki konfeti.
+
+
+SESLER (Kenney)
+---------------
+Lisans : Creative Commons CC0 1.0
+
+  place.ogg   <- Impact Sounds / impactWood_medium_000.ogg
+                 (https://kenney.nl/assets/impact-sounds)
+  fail.ogg    <- Impact Sounds / impactPlank_medium_000.ogg
+  perfect.ogg <- Interface Sounds / confirmation_001.ogg
+                 (https://kenney.nl/assets/interface-sounds)
+  levelup.ogg <- Music Jingles / Pizzicato jingles / jingles_PIZZI00.ogg
+                 (https://kenney.nl/assets/music-jingles)
+
+
+FONT
+----
+  Fonts/Poppins-Bold.ttf
+  Kaynak : Google Fonts (https://fonts.google.com/specimen/Poppins)
+  Tasarım: Indian Type Foundry, Jonny Pinhorn
+  Lisans : SIL Open Font License 1.1 (https://scripts.sil.org/OFL)
+  Türkçe karakterleri (ç ğ ı İ ö ş ü) içerir.
+
+
+ÇIKARILAN ASSETLER
+------------------
+İlk sürümde ambientCG'den (CC0) foto-gerçekçi ahşap/taş/metal/mermer dokuları
+kullanılıyordu. Casual bir mobil oyun için fazla soluk durduğundan çıkarıldı;
+yerine düz canlı renkler + Kenney'in vektörel arayüz/parçacık grafikleri geldi.
+
+
+NOT
+---
+CC0 assetler için atıf zorunlu değildir, yine de kaynaklar burada listelenmiştir.
+OFL lisanslı font, uygulama içinde gömülü olarak dağıtılabilir; fontun kendisini
+ayrı bir ürün olarak satmak yasaktır.
